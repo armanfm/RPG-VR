@@ -20,6 +20,15 @@ A cena apresenta um ambiente RPG explorável contendo personagens, dragão anima
 
 ---
 
+## Controles
+
+- Mouse Direito = girar câmera
+- Setas do teclado = movimentação
+- Clique no D20 = rolar dado
+- Teclas do dragão = ativar animações
+
+---
+
 ## Tecnologias Utilizadas
 
 - Unity 6
